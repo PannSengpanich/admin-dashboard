@@ -1,4 +1,4 @@
-# admin-dashboard
+# Admin Dashboard
 
 The Library project is a web development project included in The Odin Project Fullstack JavaScript Course. It is a simple front-end web application built using HTML, CSS, and JavaScript that allows users to create a library of books they have read or want to read. The project provides an opportunity for developers to practice their front-end development skills and gain experience in building user interfaces.
 
